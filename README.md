@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+Pokemon API used on this project :
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Pokemons Name : https://pogoapi.net/api/v1/pokemon_names.json
+https://pogoapi.net/api/v1/released_pokemon.json
 
-## Available Scripts
+Pokemon Shiny disponibility : https://pogoapi.net/api/v1/shiny_pokemon.json
 
-In the project directory, you can run:
+Pokemon Raid Level : https://pogoapi.net/api/v1/raid_exclusive_pokemon.json
 
-### `npm start`
+Pokemon Transforming on Ditto : https://pogoapi.net/api/v1/possible_ditto_pokemon.json
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Pokemons Stats : https://pogoapi.net/api/v1/pokemon_stats.json
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Pokemon MAX CP : https://pogoapi.net/api/v1/pokemon_max_cp.json
 
-### `npm test`
+Buddy Distance : https://pogoapi.net/api/v1/pokemon_buddy_distances.json
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Buddy Candy To : Elvove : https://pogoapi.net/api/v1/pokemon_candy_to_evolve.json
 
-### `npm run build`
+Pokemon Types : https://pogoapi.net/api/v1/pokemon_types.json
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Boosted Pokemons : https://pogoapi.net/api/v1/weather_boosts.json
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Pokemon Rarity : https://pogoapi.net/api/v1/pokemon_rarity.json
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Pokemon Gender : https://pogoapi.net/api/v1/pokemon_genders.json
 
-### `npm run eject`
+User Level XP requided : https://pogoapi.net/api/v1/player_xp_requirements.json
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Pokemon Power Up : https://pogoapi.net/api/v1/pokemon_powerup_requirements.json
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Pokemon Form : https://pogoapi.net/api/v1/pokemon_forms.json
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Community Days : https://pogoapi.net/api/v1/community_days.json
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Raid Bosses Level : https://pogoapi.net/api/v1/raid_bosses.json
 
-## Learn More
+Level Up rewards : https://pogoapi.net/api/v1/levelup_rewards.json
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Baby Pokemon : https://pogoapi.net/api/v1/baby_pokemon.json
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Limited Shiny Pokemon : https://pogoapi.net/api/v1/time_limited_shiny_pokemon.json
